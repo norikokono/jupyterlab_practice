@@ -7,5 +7,6 @@
 #### Module 7: JupyterLab
 In this module, you will learn about JupyterLab, one of the most popular development environments for data science projects.
 
-
+</br>
+<img src="images/jupyter-seeklogo.svg"></img>
 
