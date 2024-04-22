@@ -10,3 +10,12 @@ In this module, you will learn about JupyterLab, one of the most popular develop
 </br>
 <img src="images/jupyter-seeklogo.svg"></img>
 
+### Assignment 8
+#### Module 8: Jupyter Book
+In this module you will learn how to create beautiful, publication-ready books and websites using Jupyter Book.
+
+</br>
+<img src="https://jupyterbook.org/en/stable/_images/logo-square.svg" width="200px"></img>
+
+You can find my final project through this link. 🙂
+https://norikokono.github.io/portfolio/intro.html
