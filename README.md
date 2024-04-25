@@ -19,3 +19,6 @@ In this module you will learn how to create beautiful, publication-ready books a
 
 You can find my final project through this link. 🙂
 https://norikokono.github.io/portfolio/intro.html
+
+[My Final Project 📚](https://norikokono.github.io/portfolio/intro.html)
+![My Final Project 📋](https://norikokono.github.io/portfolio/intro.html#)
