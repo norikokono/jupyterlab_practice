@@ -24,4 +24,4 @@ https://norikokono.github.io/portfolio/intro.html
 
 ![My Final Project](images/digital-portfolio.png)
 
-![My Final Project quote](images/digital-portfolio-quote.gif)
+![My Final Project quote](images/digital-portfolio-quote.png)
